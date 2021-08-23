@@ -3,4 +3,5 @@ class C
 {
 public:
 	C() = default;
+	virtual ~C() = default;
 };
